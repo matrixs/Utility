@@ -1,0 +1,6 @@
+framework module HCBNetwork {
+  umbrella header "HCBNetwork-umbrella.h"
+
+  export *
+  module * { export * }
+}

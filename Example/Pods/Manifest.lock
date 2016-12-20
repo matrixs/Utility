@@ -1,0 +1,16 @@
+PODS:
+  - HCBNetwork (0.1.0)
+
+DEPENDENCIES:
+  - HCBNetwork (from `../`)
+
+EXTERNAL SOURCES:
+  HCBNetwork:
+    :path: ../
+
+SPEC CHECKSUMS:
+  HCBNetwork: 1cfeb67adfc1535fb93d4871b298033d666f6e42
+
+PODFILE CHECKSUM: 92282731643f893ea212e793620454ffa95d9f15
+
+COCOAPODS: 1.1.1
