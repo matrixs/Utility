@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HCBNetwork_Example' do
+  pod 'HCBNetwork', :path => '../'
+
+  target 'HCBNetwork_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
